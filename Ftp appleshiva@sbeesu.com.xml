@@ -2,8 +2,7 @@
 <FileZilla3> 
     <Servers> 
         <Server> 
-            <Host>ftp.sbeesu.com
-			</Host> 
+            <Host>ftp.sbeesu.com</Host> 
             <Port>21</Port> 
             <Protocol>ftp</Protocol> 
             <Type>0</Type> 
